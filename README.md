@@ -18,8 +18,11 @@
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 <br>
 
+
+
 ### Lets connect through:
 <a href="https://t.me/themoonk1d"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
+<a href="eyobdesta562@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 <a href="https://twitter.com/TheMoonK1d"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/eyob-desta-b33017146/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/TheMoonK1d/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
