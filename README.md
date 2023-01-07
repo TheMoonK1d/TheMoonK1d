@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://icons8.com/icon/1LAX3PYMg2iA/android-studio"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/fluency/512/android-studio--v2.png"/>
 
 <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 
