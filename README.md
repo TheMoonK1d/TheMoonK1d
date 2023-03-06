@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">ሰላም</h1>
 
-<a href="https://github.com/TheMoonK1d/TheMoonK1d"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hello World+%2C+welcome+to+my+Github+page;I+am+Eyob"></a>
+<a href="https://github.com/TheMoonK1d/TheMoonK1d"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hello+World+%2C+welcome+to+my+Github+page;I+am+Eyob"></a>
 </p>
 </div>
 
