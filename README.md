@@ -15,7 +15,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/firebase.png"/> 
 
-<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/color/48/windows-10.png"/>
 <br>
 
 
