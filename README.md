@@ -13,11 +13,15 @@
 
 <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> <img src="https://img.icons8.com/color/48/visual-studio--v2.png"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img src="https://icons8.com/icon/zC9SDvhmTlTo/vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text"/>
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/firebase.png"/> 
+<img src="https://img.icons8.com/color/48/firebase.png"/> 
 
-<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/color/48/windows-10.png"/>
+## Skills 🧑‍💻 :
+
+<br>
+
+<img src="https://icons8.com/icon/63150/inkscape"/> <img src="https://icons8.com/icon/hksmgkMI669m/adobe-illustrator"/> <img src="https://img.icons8.com/color/48/windows-10.png"/>
 <br>
 
 
