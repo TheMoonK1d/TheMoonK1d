@@ -12,7 +12,7 @@
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/kotlin.png"/>
 
 
-<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img src="https://icons8.com/icon/zC9SDvhmTlTo/vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text"/>
+<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/vim-512.png"/>
 
 <img src="https://img.icons8.com/color/48/firebase.png"/> 
 
@@ -21,7 +21,7 @@
 <br>
 
 <img width="30" src="https://cdn1.iconfinder.com/data/icons/Vista-Inspirate_1.0/128x128/apps/inkscape.png"/> <img width="30" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_adobe_illustrator-64.png"/> <img width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/16_Aftereffects_After_Effects_Adobe_logo_logos-512.png"/>
-<img width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-512.png"/> <img width="30" src="https://www.iconfinder.com/icons/33631/gimp_icon"/>
+<img width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-512.png"/> <img width="30" src="https://cdn3.iconfinder.com/data/icons/colorstroked/Gimp.png"/>
 
 
 
