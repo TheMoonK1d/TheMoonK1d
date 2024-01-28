@@ -21,7 +21,7 @@
 
 <br>
 
-<img src="https://icons8.com/icon/63150/inkscape"/> <img src="https://icons8.com/icon/hksmgkMI669m/adobe-illustrator"/> <img src="https://img.icons8.com/color/48/windows-10.png"/>
+<img src="https://icons8.com/icon/63150/inkscape"/> <img src="https://icons8.com/icon/hksmgkMI669m/adobe-illustrator"/> <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_android-512.png"/>
 <br>
 
 
